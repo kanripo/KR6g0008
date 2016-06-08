@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1768
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6g0008_T_000-0230a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0008_T_001-0230a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -478,7 +478,7 @@ No. 1768 [cf. No. 375]¶
 國，此亦無名以正翻，但文詶況指，義釋而已。¶
 
 第四、知秀師亦云不可翻。彼師序云：涅槃是¶
-圓極至住之總名也，然因迹見名，見名知本。名¶
+圓極至住之總名也，然因迹見名見名知本。名¶
 迹之興肇自天竺，我大梁亦應有稱。但弘道¶
 之近，既發軫西域於未測，此方以「伊」譯翻，是¶
 以前賢後哲，皆順舊本述而不作，故題之經¶
